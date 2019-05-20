@@ -1,0 +1,27 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "fetchival": "0.3.3",
+    "native-base": "2.12.1",
+    "fetch": "1.1.0",
+    "react": "16.8.6",
+    "react-native": "0.59.5",
+    "react-native-base64": "0.0.2",
+    "react-native-maps": "^0.24.2",
+    "react-navigation": "3.9.1",
+    "react-redux": "7.0.2",
+    "redux": "4.0.1",
+    "redux-persist": "5.10.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
